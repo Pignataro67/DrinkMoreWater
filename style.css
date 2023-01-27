@@ -67,3 +67,8 @@ h3 {
   justify-content: center;
   width: 280px;
 }
+
+.remained {
+  display: flex;
+  flex-direction: column;
+}
