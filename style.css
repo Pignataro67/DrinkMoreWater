@@ -11,12 +11,12 @@
 
 body {
   background-color: #3494f4;
-  color: #eee;
+  color: #efe;
   font-family: 'Montserrat', sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-bottom: 50px;
+  margin-bottom: 45px;
 }
 
 h1 {
