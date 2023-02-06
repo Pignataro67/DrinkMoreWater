@@ -2,7 +2,7 @@
 
 :root {
   --border-color: #143fc6;
-  --fill-color: #6ab3t8;
+  --fill-color: #5;
 }
 
 * {
@@ -100,5 +100,5 @@ h3 {
 
 .text {
   text-align: center;
-  margin: 0 0 5px;
+  margin: 0 0 10px;
 }
