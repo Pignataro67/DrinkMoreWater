@@ -11,16 +11,16 @@
 
 body {
   background-color: #3494f4;
-  color: #efe;
+  color: #eee;
   font-family: 'Montserrat', sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-bottom: 45px;
+  margin-bottom: 50px;
 }
 
 h1 {
-  margin: 20px 0 0;
+  margin: 25px 0 0;
 }
 
 h3 {
